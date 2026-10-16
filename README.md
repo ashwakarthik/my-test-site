@@ -134,10 +134,28 @@ These are project-level summaries. Update them as a team when implementation and
 ## `> CONTRIBUTION_ACTIVITY`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiq-root&bg_color=020617&color=e2e8f0&line=00ff9c&point=86efac&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</div>
 
-<sub>If this graph does not load, the third-party activity-graph service may be unavailable. The rest of the README does not depend on it.</sub>
+<a href="https://github.com/Rafiq-root/CAN-Sentinel/graphs/contributors">
+  <img
+    src="https://img.shields.io/github/contributors/Rafiq-root/CAN-Sentinel?style=for-the-badge&color=00c853&label=PROJECT%20CONTRIBUTORS"
+    alt="CAN-Sentinel contributors"
+  />
+</a>
+
+<a href="https://github.com/Rafiq-root/CAN-Sentinel/commits/develop">
+  <img
+    src="https://img.shields.io/github/commit-activity/m/Rafiq-root/CAN-Sentinel/develop?style=for-the-badge&color=16a34a&label=MONTHLY%20COMMITS"
+    alt="Monthly commit activity"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Rafiq-root/CAN-Sentinel/graphs/contributors">
+  **VIEW TEAM CONTRIBUTION HISTORY →**
+</a>
+
+</div>
 
 ## `> TEAM_WORKFLOW`
 
