@@ -16,7 +16,7 @@
 
 **An evolving automotive cybersecurity project for exploring CAN traffic analysis and ECU intrusion detection.**
 
-[Repository](https://github.com/Rafiq-root/CAN-Sentinel) · [Issues](https://github.com/Rafiq-root/CAN-Sentinel/issues) · [Contributions](https://github.com/Rafiq-root/CAN-Sentinel/graphs/contributors)
+[Repository](https://github.com/Rafiq-root/CAN-Sentinel) · [Issues](https://github.com/Rafiq-root/CAN-Sentinel/issues) · [Contributors](https://github.com/Rafiq-root/CAN-Sentinel/graphs/contributors)
 
 </div>
 
@@ -131,19 +131,13 @@ These are project-level summaries. Update them as a team when implementation and
 
 <sub>Statistics are served by external badge/statistics services and may be delayed, rate-limited, or temporarily unavailable. Account-wide language statistics are not a measure of this repository alone.</sub>
 
-### Contribution Snake
-
-The workflow included with this package generates a contribution-grid animation on the `output` branch after you add the files and enable GitHub Actions.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rafiq-root/CAN-Sentinel/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-</div>
-
 ## `> CONTRIBUTION_ACTIVITY`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiq-root&bg_color=020617&color=e2e8f0&line=00ff9c&point=86efac&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 </div>
+
+<sub>If this graph does not load, the third-party activity-graph service may be unavailable. The rest of the README does not depend on it.</sub>
 
 ## `> TEAM_WORKFLOW`
 
